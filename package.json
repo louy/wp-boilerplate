@@ -1,0 +1,21 @@
+{
+  "name": "my-project",
+  "version": "1.0.0",
+  "author": "Louy Alakkad",
+  "devDependencies": {
+    "load-grunt-tasks": "*",
+    "time-grunt": "*",
+    "grunt": "*",
+    "grunt-phplint": "*",
+    "grunt-autoprefixer": "*",
+    "grunt-contrib-compass": "*",
+    "grunt-contrib-concat": "*",
+    "grunt-contrib-cssmin": "*",
+    "grunt-contrib-jshint": "*",
+    "grunt-contrib-uglify": "*",
+    "grunt-contrib-watch": "*",
+    "grunt-wp-i18n": "*",
+    "jshint-stylish": "*",
+    "node-bourbon": "*"
+  }
+}
